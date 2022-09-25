@@ -6,4 +6,4 @@ Just simple terminal converter that uses api to get the statisics
 2. ```cp .env.example .env```
 3. ``` cargo build```
 4. ``` cargon run TO FROM Amount ```
-5. make sure you fill in .env file sd
+5. make sure you fill in .env file
