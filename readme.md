@@ -1,0 +1,1 @@
+Just simple terminal converter that uses api to get the statisics 
